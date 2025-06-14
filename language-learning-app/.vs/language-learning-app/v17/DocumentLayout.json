@@ -14,24 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomePage.jsx",
-              "DocumentMoniker": "C:\\Users\\XY\\language-learning-app\\language-learning-app\\src\\HomePage.jsx",
-              "RelativeDocumentMoniker": "src\\HomePage.jsx",
-              "ToolTip": "C:\\Users\\XY\\language-learning-app\\language-learning-app\\src\\HomePage.jsx",
-              "RelativeToolTip": "src\\HomePage.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-06-14T07:40:27.997Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -44,6 +31,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\XY\\language-learning-app\\language-learning-app\\src\\HomePage.jsx",
+              "RelativeDocumentMoniker": "src\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\XY\\language-learning-app\\language-learning-app\\src\\HomePage.jsx",
+              "RelativeToolTip": "src\\HomePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-06-14T07:40:27.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
